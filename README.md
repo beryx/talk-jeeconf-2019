@@ -1,6 +1,6 @@
 ## The Java Module System in practice ##
 
-Slides and code from the talk "The Java Module System in practice" given on April 26 2019 at JEEConf in Kyiv, Ukraine.
+Slides and code from the talk "The Java Module System in practice" given on 26 April 2019 at JEEConf in Kyiv, Ukraine.
 
 To work through the examples open the file `composite/settings.gradle` as a project in your IntelliJ IDEA.
 
@@ -14,4 +14,4 @@ cd slides
 ```
 Then, open the file `build/asciidoc/html5/java-module-system.html` in your browser.
 
-The slides are also available at: TBD
+The slides are also available at: https://beryx.github.io/talk-jeeconf-2019/

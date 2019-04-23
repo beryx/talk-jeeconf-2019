@@ -687,7 +687,7 @@ include::{basedir}/prj-7/build.gradle[indent=0]
 
 == Resources
 
-[size125]#*Code and slides of this talk: https://github.com/beryx/talk-jeeconf-2019*#
+[size125]#*Code and slides of this talk: https://beryx.github.io/talk-jeeconf-2019*#
 
 [size110]#*Maven*#
 
